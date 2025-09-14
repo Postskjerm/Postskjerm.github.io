@@ -35,4 +35,9 @@ dragon_bones <- function(dragon_bones){
   
 }
 dragon_bones(3500)
-  
+
+
+
+tester forandringer 
+
+ny forandring
