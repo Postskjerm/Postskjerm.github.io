@@ -35,3 +35,4 @@ dragon_bones <- function(dragon_bones){
   
 }
 dragon_bones(3500)
+  
