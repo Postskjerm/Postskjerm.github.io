@@ -1,6 +1,21 @@
 # Postskjerm.github.io
 Webpage
 
+
+<label for="quantity">Prayer Dragon bones gp/xp:</label>
+<input type="number" id="quantity" name="quantity" min="1" max="51000">
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="23" height="23" alt="Prayer_icon" src="https://github.com/user-attachments/assets/b4631664-ecf1-49e9-b1f7-64b0d83c502e" />
 
 
